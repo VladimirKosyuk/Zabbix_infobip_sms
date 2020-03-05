@@ -1,6 +1,6 @@
 # Zabbix_infobip_sms
 
-Does: allows zabbix to send sms via infobip API:
+Does: allows zabbix to send sms via infobip API.
  
 Requires: zabbix AlertScriptsPath placing, mail command; replacing vars values to yours.
 
